@@ -7,7 +7,7 @@
                 <th>No</th>
                 <th>Nama Mata Diklat</th>
                 <th>SKS</th>
-                <th>Pilihan</th>
+                <th>Aksi</th>
             </tr>
             <?php
             include_once('koneksi.php');
